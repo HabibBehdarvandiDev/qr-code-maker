@@ -1,4 +1,4 @@
-/* For start type tsc bot.ts && node bot.js */
+/* For start type tsc qr.ts && node qr.js */
 import * as QRCode from "qrcode";
 import { createInterface } from "readline/promises";
 import * as fs from "fs";
