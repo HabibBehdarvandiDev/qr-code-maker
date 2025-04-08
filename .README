@@ -1,3 +1,0 @@
-FOR Install type | npm i
-
-FOR Use type | tsc qr.ts && node qr.js
